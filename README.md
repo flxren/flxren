@@ -5,11 +5,11 @@
 </em></p>
 
 [![Twitter:ultracafeinada](https://img.shields.io/twitter/follow/ultracafeinada?style=social)](https://twitter.com/ultracafeinada)
-[![Linkedin:mariaflormz](https://img.shields.io/badge/-mariaflormz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaflormz/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Tflxren](https://img.shields.io/github/followers/flxren?label=follow&style=social)](https://github.com/flxren)
+[![Linkedin:mariaflormz](https://img.shields.io/badge/-mariaflormz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaflormz/)](https://www.linkedin.com/in/mariaflormz/)
+[![GitHub flxren](https://img.shields.io/github/followers/flxren?label=follow&style=social)](https://github.com/flxren)
 
 
-### <img src="https://media.giphy.com/media/OQ4XOwxkuCjFYBPXkd/giphy.gif" width="60"> A little more about me...  
+### <img src="https://media.giphy.com/media/OQ4XOwxkuCjFYBPXkd/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const flor = {
