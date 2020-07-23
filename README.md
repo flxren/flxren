@@ -1,16 +1,29 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/jdOm0IddQuJP2/giphy.gif" width="200" id="sideimg"><p>
+### Hi, I'm Flor M.! <img src="https://media.giphy.com/media/mEbEflAu3kMNBqyLCm/giphy.gif" width="30"> 
 
-<!--
-**flxren/flxren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"> Jr. Java Full Stack Developer</br>
+</em></p>
 
-Here are some ideas to get you started:
+[![Twitter:ultracafeinada](https://img.shields.io/twitter/follow/ultracafeinada?style=social)](https://twitter.com/ultracafeinada)
+[![Linkedin:mariaflormz](https://img.shields.io/badge/-mariaflormz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaflormz/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Tflxren](https://img.shields.io/github/followers/flxren?label=follow&style=social)](https://github.com/flxren)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/OQ4XOwxkuCjFYBPXkd/giphy.gif" width="60"> A little more about me...  
+
+```javascript
+const flor = {
+  pronouns: "she" | "her",
+  languages: "ES" | "EN" | "GER",
+  code: [Javascript, HTML, CSS, Java, SQL, GDScript, lil bit .NET & C#],
+  tools: [React, Node, Bootstrap, Spring, Maven, Hibernate, MySQL, Unity3D, Godot],
+  architecture: ["design patterns"],
+  challenge: "Figuring out how to make cool Android apps"
+}
+```
+
+<img src="https://media.giphy.com/media/7XoVRheofTxdtssUyt/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@Thaiane], thank you so much! (https://github.com/Thaiane)
