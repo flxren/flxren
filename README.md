@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/jdOm0IddQuJP2/giphy.gif" width="200" id="sideimg"><p>
 ### Hi, I'm Flor M.! <img src="https://media.giphy.com/media/mEbEflAu3kMNBqyLCm/giphy.gif" width="30"> 
 
-<p><em><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"> Jr. Java Full Stack Developer</br>
+<p><em><img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="40"> Front-End Developer</br>
 </em></p>
 
 [![Twitter:ultracafeinada](https://img.shields.io/twitter/follow/ultracafeinada?style=social)](https://twitter.com/ultracafeinada)
@@ -15,10 +15,10 @@
 const flor = {
   pronouns: "she" | "her",
   languages: "ES" | "EN" | "GER",
-  code: [Javascript, HTML, CSS, Java, SQL, GDScript, lil bit .NET & C#],
-  tools: [React, Node, Bootstrap, Spring, Maven, Hibernate, MySQL, Unity3D, Godot],
-  architecture: ["design patterns"],
-  challenge: "Figuring out how to make cool Android apps"
+  code: [Javascript, HTML, CSS, Java, SQL, GDScript, .NET & C#],
+  tools: [React, Node, Bootstrap, Spring, Maven, Hibernate, MySQL, SQLServer, Unity3D, Godot],
+  architecture: ["design patterns, mvc, three-tier"],
+  challenge: "Make new projects accessible for everyone."
 }
 ```
 
