@@ -17,7 +17,7 @@ const flor = {
   languages: "ES" | "EN" | "GER",
   code: [Javascript, HTML, CSS, Java, SQL, GDScript, .NET & C#],
   tools: [React, Node, Bootstrap, Spring, Maven, Hibernate, MySQL, SQLServer, Unity3D, Godot],
-  architecture: ["design patterns, mvc, three-tier"],
+  architecture: ["design patterns", "mvc", "three-tier"],
   challenge: "Make new projects accessible for everyone."
 }
 ```
